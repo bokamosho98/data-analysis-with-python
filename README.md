@@ -1,4 +1,4 @@
-# Python for Data Science – Portfolio Project
+# data  analysis– Portfolio Project
 
 This repository contains four clean, structured Python data analysis projects.
 The work demonstrates real-world data handling, analysis, and reporting skills.
